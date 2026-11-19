@@ -1,0 +1,11 @@
+{
+  "targets": 479,
+  "fits_sources": 59,
+  "tiles": 597,
+  "valid_reprojected_pixels": 132711460,
+  "wcs_max_error_pixels": 2.6398857287313134e-10,
+  "all_targets_in_bounds": true,
+  "all_images_present": true,
+  "all_tiles_decoded": true,
+  "package_MB": 478.7
+}

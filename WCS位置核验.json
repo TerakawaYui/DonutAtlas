@@ -1,0 +1,2402 @@
+{
+  "count": 479,
+  "maximum_pixels": 2.6398857287313134e-10,
+  "over_0_01_pixel": [],
+  "rows": [
+    {
+      "source": "G002.5+0.0IFx_Mosaic",
+      "rank": "54785",
+      "error_pixels": 5.322681277320783e-12
+    },
+    {
+      "source": "G002.5+0.0IFx_Mosaic",
+      "rank": "60273",
+      "error_pixels": 8.134767913360665e-12
+    },
+    {
+      "source": "G002.5+0.0IFx_Mosaic",
+      "rank": "85313",
+      "error_pixels": 1.3649997544965694e-11
+    },
+    {
+      "source": "G002.5+0.0IFx_Mosaic",
+      "rank": "27361",
+      "error_pixels": 3.6662903532026344e-12
+    },
+    {
+      "source": "G002.5+0.0IFx_Mosaic",
+      "rank": "63841",
+      "error_pixels": 1.1064480586898243e-11
+    },
+    {
+      "source": "G002.5+0.0IFx_Mosaic",
+      "rank": "24913",
+      "error_pixels": 2.977900796610139e-11
+    },
+    {
+      "source": "G002.5+0.0IFx_Mosaic",
+      "rank": "20833",
+      "error_pixels": 4.367705676554248e-11
+    },
+    {
+      "source": "G005.5+0.0IFx_Mosaic",
+      "rank": "11937",
+      "error_pixels": 7.784020803512108e-12
+    },
+    {
+      "source": "G005.5+0.0IFx_Mosaic",
+      "rank": "16001",
+      "error_pixels": 9.374856803373542e-13
+    },
+    {
+      "source": "G005.5+0.0IFx_Mosaic",
+      "rank": "73377",
+      "error_pixels": 1.2147479839918133e-11
+    },
+    {
+      "source": "G005.5+0.0IFx_Mosaic",
+      "rank": "38977",
+      "error_pixels": 2.113963873702134e-11
+    },
+    {
+      "source": "G005.5+0.0IFx_Mosaic",
+      "rank": "79681",
+      "error_pixels": 4.022650958394054e-12
+    },
+    {
+      "source": "G005.5+0.0IFx_Mosaic",
+      "rank": "54353",
+      "error_pixels": 6.8815761325920705e-12
+    },
+    {
+      "source": "G005.5+0.0IFx_Mosaic",
+      "rank": "61649",
+      "error_pixels": 6.926505289687983e-12
+    },
+    {
+      "source": "G005.5+0.0IFx_Mosaic",
+      "rank": "80689",
+      "error_pixels": 2.7284841053187847e-12
+    },
+    {
+      "source": "G008.5+0.0IFx_Mosaic",
+      "rank": "61137",
+      "error_pixels": 3.4443922447279145e-11
+    },
+    {
+      "source": "G008.5+0.0IFx_Mosaic",
+      "rank": "55553",
+      "error_pixels": 2.82383092712917e-11
+    },
+    {
+      "source": "G008.5+0.0IFx_Mosaic",
+      "rank": "29473",
+      "error_pixels": 7.103380699760832e-12
+    },
+    {
+      "source": "G008.5+0.0IFx_Mosaic",
+      "rank": "51233",
+      "error_pixels": 1.3021982397982677e-11
+    },
+    {
+      "source": "G008.5+0.0IFx_Mosaic",
+      "rank": "76433",
+      "error_pixels": 2.448889430131432e-12
+    },
+    {
+      "source": "G008.5+0.0IFx_Mosaic",
+      "rank": "51713",
+      "error_pixels": 1.2805801671064476e-11
+    },
+    {
+      "source": "G008.5+0.0IFx_Mosaic",
+      "rank": "73153",
+      "error_pixels": 2.674904166242912e-11
+    },
+    {
+      "source": "G008.5+0.0IFx_Mosaic",
+      "rank": "35553",
+      "error_pixels": 2.753850986067098e-11
+    },
+    {
+      "source": "G008.5+0.0IFx_Mosaic",
+      "rank": "53121",
+      "error_pixels": 1.4552359310800645e-11
+    },
+    {
+      "source": "G011.5+0.0IFx_Mosaic",
+      "rank": "80337",
+      "error_pixels": 4.547473508864641e-12
+    },
+    {
+      "source": "G011.5+0.0IFx_Mosaic",
+      "rank": "76177",
+      "error_pixels": 4.27559253641199e-11
+    },
+    {
+      "source": "G011.5+0.0IFx_Mosaic",
+      "rank": "62433",
+      "error_pixels": 3.522751359353481e-11
+    },
+    {
+      "source": "G011.5+0.0IFx_Mosaic",
+      "rank": "49073",
+      "error_pixels": 4.093736582918391e-11
+    },
+    {
+      "source": "G011.5+0.0IFx_Mosaic",
+      "rank": "43409",
+      "error_pixels": 3.826909032790217e-11
+    },
+    {
+      "source": "G011.5+0.0IFx_Mosaic",
+      "rank": "50929",
+      "error_pixels": 2.7661201467245607e-12
+    },
+    {
+      "source": "G011.5+0.0IFx_Mosaic",
+      "rank": "20017",
+      "error_pixels": 2.032802043383767e-11
+    },
+    {
+      "source": "G011.5+0.0IFx_Mosaic",
+      "rank": "37793",
+      "error_pixels": 2.0260512801492462e-11
+    },
+    {
+      "source": "G011.5+0.0IFx_Mosaic",
+      "rank": "54321",
+      "error_pixels": 1.2635104203081759e-11
+    },
+    {
+      "source": "G014.5+0.0IFx_Mosaic",
+      "rank": "44049",
+      "error_pixels": 1.251175171291616e-11
+    },
+    {
+      "source": "G014.5+0.0IFx_Mosaic",
+      "rank": "58177",
+      "error_pixels": 1.1652900866465643e-12
+    },
+    {
+      "source": "G014.5+0.0IFx_Mosaic",
+      "rank": "56593",
+      "error_pixels": 3.279229782005122e-12
+    },
+    {
+      "source": "G014.5+0.0IFx_Mosaic",
+      "rank": "48881",
+      "error_pixels": 1.8189894035458565e-12
+    },
+    {
+      "source": "G014.5+0.0IFx_Mosaic",
+      "rank": "60785",
+      "error_pixels": 2.990482510304087e-11
+    },
+    {
+      "source": "G014.5+0.0IFx_Mosaic",
+      "rank": "47425",
+      "error_pixels": 1.124982816404825e-11
+    },
+    {
+      "source": "G017.5+0.0IFx_Mosaic",
+      "rank": "76465",
+      "error_pixels": 5.823607568738997e-12
+    },
+    {
+      "source": "G017.5+0.0IFx_Mosaic",
+      "rank": "71105",
+      "error_pixels": 2.878320833854596e-11
+    },
+    {
+      "source": "G017.5+0.0IFx_Mosaic",
+      "rank": "59361",
+      "error_pixels": 7.275957614183426e-12
+    },
+    {
+      "source": "G017.5+0.0IFx_Mosaic",
+      "rank": "54705",
+      "error_pixels": 4.192563418333924e-12
+    },
+    {
+      "source": "G020.5+0.0IFx_Mosaic",
+      "rank": "18337",
+      "error_pixels": 7.275957614183426e-12
+    },
+    {
+      "source": "G020.5+0.0IFx_Mosaic",
+      "rank": "62737",
+      "error_pixels": 8.385126836667848e-12
+    },
+    {
+      "source": "G020.5+0.0IFx_Mosaic",
+      "rank": "38305",
+      "error_pixels": 1.0014771553662849e-11
+    },
+    {
+      "source": "G020.5+0.0IFx_Mosaic",
+      "rank": "82321",
+      "error_pixels": 1.9554466570318614e-11
+    },
+    {
+      "source": "G020.5+0.0IFx_Mosaic",
+      "rank": "61617",
+      "error_pixels": 8.957483989248525e-12
+    },
+    {
+      "source": "G020.5+0.0IFx_Mosaic",
+      "rank": "54113",
+      "error_pixels": 3.782885749949023e-11
+    },
+    {
+      "source": "G020.5+0.0IFx_Mosaic",
+      "rank": "59057",
+      "error_pixels": 9.094947017729282e-13
+    },
+    {
+      "source": "G020.5+0.0IFx_Mosaic",
+      "rank": "21201",
+      "error_pixels": 1.4511001505169452e-11
+    },
+    {
+      "source": "G023.5+0.0IFx_Mosaic",
+      "rank": "64689",
+      "error_pixels": 4.834030647877921e-12
+    },
+    {
+      "source": "G023.5+0.0IFx_Mosaic",
+      "rank": "22145",
+      "error_pixels": 2.6613406386603914e-12
+    },
+    {
+      "source": "G023.5+0.0IFx_Mosaic",
+      "rank": "64673",
+      "error_pixels": 1.161387698550437e-11
+    },
+    {
+      "source": "G023.5+0.0IFx_Mosaic",
+      "rank": "44705",
+      "error_pixels": 3.585589863691249e-11
+    },
+    {
+      "source": "G023.5+0.0IFx_Mosaic",
+      "rank": "41841",
+      "error_pixels": 2.4862092378303984e-11
+    },
+    {
+      "source": "G023.5+0.0IFx_Mosaic",
+      "rank": "44833",
+      "error_pixels": 1.000444171950221e-11
+    },
+    {
+      "source": "G023.5+0.0IFx_Mosaic",
+      "rank": "43729",
+      "error_pixels": 4.130197596044869e-11
+    },
+    {
+      "source": "G023.5+0.0IFx_Mosaic",
+      "rank": "30593",
+      "error_pixels": 2.2301173585654813e-11
+    },
+    {
+      "source": "G023.5+0.0IFx_Mosaic",
+      "rank": "48353",
+      "error_pixels": 7.06323797522103e-12
+    },
+    {
+      "source": "G023.5+0.0IFx_Mosaic",
+      "rank": "23169",
+      "error_pixels": 3.582127754872632e-11
+    },
+    {
+      "source": "G023.5+0.0IFx_Mosaic",
+      "rank": "52641",
+      "error_pixels": 6.382683226374047e-12
+    },
+    {
+      "source": "G023.5+0.0IFx_Mosaic",
+      "rank": "44433",
+      "error_pixels": 1.639614891002561e-12
+    },
+    {
+      "source": "G023.5+0.0IFx_Mosaic",
+      "rank": "79265",
+      "error_pixels": 5.532240293449121e-12
+    },
+    {
+      "source": "G023.5+0.0IFx_Mosaic",
+      "rank": "28353",
+      "error_pixels": 1.1936576582599344e-11
+    },
+    {
+      "source": "G023.5+0.0IFx_Mosaic",
+      "rank": "64721",
+      "error_pixels": 5.084229945850415e-12
+    },
+    {
+      "source": "G026.5+0.0IFx_Mosaic",
+      "rank": "50241",
+      "error_pixels": 9.106308604942018e-12
+    },
+    {
+      "source": "G026.5+0.0IFx_Mosaic",
+      "rank": "39441",
+      "error_pixels": 3.6662903532026344e-12
+    },
+    {
+      "source": "G026.5+0.0IFx_Mosaic",
+      "rank": "33585",
+      "error_pixels": 3.418780784925275e-11
+    },
+    {
+      "source": "G026.5+0.0IFx_Mosaic",
+      "rank": "12689",
+      "error_pixels": 9.694761322556515e-12
+    },
+    {
+      "source": "G026.5+0.0IFx_Mosaic",
+      "rank": "91329",
+      "error_pixels": 7.332580706405269e-12
+    },
+    {
+      "source": "G029.5+0.0IFx_Mosaic",
+      "rank": "63985",
+      "error_pixels": 2.643799571842216e-11
+    },
+    {
+      "source": "G029.5+0.0IFx_Mosaic",
+      "rank": "47201",
+      "error_pixels": 8.687935939880299e-12
+    },
+    {
+      "source": "G029.5+0.0IFx_Mosaic",
+      "rank": "38353",
+      "error_pixels": 9.330635534153404e-12
+    },
+    {
+      "source": "G029.5+0.0IFx_Mosaic",
+      "rank": "46929",
+      "error_pixels": 1.2805801671064476e-11
+    },
+    {
+      "source": "G029.5+0.0IFx_Mosaic",
+      "rank": "63201",
+      "error_pixels": 6.772780647492325e-12
+    },
+    {
+      "source": "G029.5+0.0IFx_Mosaic",
+      "rank": "71697",
+      "error_pixels": 8.385126836667848e-12
+    },
+    {
+      "source": "G032.5+0.0IFx_Mosaic",
+      "rank": "72177",
+      "error_pixels": 2.4391854793677258e-11
+    },
+    {
+      "source": "G032.5+0.0IFx_Mosaic",
+      "rank": "82993",
+      "error_pixels": 4.164850230829074e-11
+    },
+    {
+      "source": "G032.5+0.0IFx_Mosaic",
+      "rank": "45393",
+      "error_pixels": 1.3853010579375966e-11
+    },
+    {
+      "source": "G032.5+0.0IFx_Mosaic",
+      "rank": "56065",
+      "error_pixels": 3.582127754872632e-11
+    },
+    {
+      "source": "G032.5+0.0IFx_Mosaic",
+      "rank": "42865",
+      "error_pixels": 2.8373465265406588e-11
+    },
+    {
+      "source": "G032.5+0.0IFx_Mosaic",
+      "rank": "52593",
+      "error_pixels": 2.033691978340166e-12
+    },
+    {
+      "source": "G032.5+0.0IFx_Mosaic",
+      "rank": "48385",
+      "error_pixels": 1.0951766470309208e-11
+    },
+    {
+      "source": "G032.5+0.0IFx_Mosaic",
+      "rank": "64401",
+      "error_pixels": 3.1987847969628955e-11
+    },
+    {
+      "source": "G032.5+0.0IFx_Mosaic",
+      "rank": "53729",
+      "error_pixels": 2.2995112667141314e-11
+    },
+    {
+      "source": "G035.5+0.0IFx_Mosaic",
+      "rank": "70897",
+      "error_pixels": 1.864498798933593e-11
+    },
+    {
+      "source": "G035.5+0.0IFx_Mosaic",
+      "rank": "9553",
+      "error_pixels": 1.1176636219926741e-11
+    },
+    {
+      "source": "G035.5+0.0IFx_Mosaic",
+      "rank": "52545",
+      "error_pixels": 1.4038368172289785e-11
+    },
+    {
+      "source": "G035.5+0.0IFx_Mosaic",
+      "rank": "72785",
+      "error_pixels": 7.332580706405269e-12
+    },
+    {
+      "source": "G035.5+0.0IFx_Mosaic",
+      "rank": "47633",
+      "error_pixels": 2.2737367544323206e-12
+    },
+    {
+      "source": "G038.5+0.0IFx_Mosaic",
+      "rank": "85393",
+      "error_pixels": 6.1010759350204984e-12
+    },
+    {
+      "source": "G038.5+0.0IFx_Mosaic",
+      "rank": "20865",
+      "error_pixels": 2.90086396941989e-11
+    },
+    {
+      "source": "G038.5+0.0IFx_Mosaic",
+      "rank": "38961",
+      "error_pixels": 4.897778860262864e-12
+    },
+    {
+      "source": "G038.5+0.0IFx_Mosaic",
+      "rank": "55809",
+      "error_pixels": 3.7292055519303005e-11
+    },
+    {
+      "source": "G038.5+0.0IFx_Mosaic",
+      "rank": "45153",
+      "error_pixels": 1.016845989170083e-12
+    },
+    {
+      "source": "G038.5+0.0IFx_Mosaic",
+      "rank": "73873",
+      "error_pixels": 2.371672018926856e-11
+    },
+    {
+      "source": "G038.5+0.0IFx_Mosaic",
+      "rank": "43041",
+      "error_pixels": 2.4874565782878217e-11
+    },
+    {
+      "source": "G038.5+0.0IFx_Mosaic",
+      "rank": "44753",
+      "error_pixels": 4.570154315443183e-12
+    },
+    {
+      "source": "G041.5+0.0IFx_Mosaic",
+      "rank": "35201",
+      "error_pixels": 1.3124799524722959e-11
+    },
+    {
+      "source": "G041.5+0.0IFx_Mosaic",
+      "rank": "34497",
+      "error_pixels": 7.332580706405269e-12
+    },
+    {
+      "source": "G041.5+0.0IFx_Mosaic",
+      "rank": "31089",
+      "error_pixels": 5.98126754901655e-12
+    },
+    {
+      "source": "G041.5+0.0IFx_Mosaic",
+      "rank": "75617",
+      "error_pixels": 3.658385205402513e-11
+    },
+    {
+      "source": "G041.5+0.0IFx_Mosaic",
+      "rank": "13809",
+      "error_pixels": 6.5623997623614794e-12
+    },
+    {
+      "source": "G044.5+0.0IFx_Mosaic",
+      "rank": "12497",
+      "error_pixels": 1.0312342483710897e-11
+    },
+    {
+      "source": "G044.5+0.0IFx_Mosaic",
+      "rank": "27249",
+      "error_pixels": 2.2850771577215914e-11
+    },
+    {
+      "source": "G044.5+0.0IFx_Mosaic",
+      "rank": "47905",
+      "error_pixels": 1.2862197421537486e-11
+    },
+    {
+      "source": "G044.5+0.0IFx_Mosaic",
+      "rank": "73889",
+      "error_pixels": 7.823769253302659e-12
+    },
+    {
+      "source": "G044.5+0.0IFx_Mosaic",
+      "rank": "53441",
+      "error_pixels": 3.693265262745072e-11
+    },
+    {
+      "source": "G044.5+0.0IFx_Mosaic",
+      "rank": "31617",
+      "error_pixels": 4.247690797517272e-12
+    },
+    {
+      "source": "G044.5+0.0IFx_Mosaic",
+      "rank": "52209",
+      "error_pixels": 2.1095572273667497e-11
+    },
+    {
+      "source": "G044.5+0.0IFx_Mosaic",
+      "rank": "33089",
+      "error_pixels": 1.3258049636636543e-11
+    },
+    {
+      "source": "G044.5+0.0IFx_Mosaic",
+      "rank": "10145",
+      "error_pixels": 3.711349652160534e-11
+    },
+    {
+      "source": "G047.5+0.0IFx_Mosaic",
+      "rank": "70561",
+      "error_pixels": 3.542362191028669e-11
+    },
+    {
+      "source": "G047.5+0.0IFx_Mosaic",
+      "rank": "52065",
+      "error_pixels": 6.59383658785373e-12
+    },
+    {
+      "source": "G047.5+0.0IFx_Mosaic",
+      "rank": "15601",
+      "error_pixels": 1.6377219349459762e-11
+    },
+    {
+      "source": "G047.5+0.0IFx_Mosaic",
+      "rank": "46401",
+      "error_pixels": 3.30560976097081e-11
+    },
+    {
+      "source": "G050.5+0.0IFx_Mosaic",
+      "rank": "38993",
+      "error_pixels": 3.336742579966838e-11
+    },
+    {
+      "source": "G050.5+0.0IFx_Mosaic",
+      "rank": "55921",
+      "error_pixels": 1.3949703907363043e-11
+    },
+    {
+      "source": "G050.5+0.0IFx_Mosaic",
+      "rank": "37665",
+      "error_pixels": 1.412647595044206e-11
+    },
+    {
+      "source": "G053.5+0.0IFx_Mosaic",
+      "rank": "77345",
+      "error_pixels": 4.227194008166266e-11
+    },
+    {
+      "source": "G053.5+0.0IFx_Mosaic",
+      "rank": "73169",
+      "error_pixels": 1.619309279227751e-11
+    },
+    {
+      "source": "G053.5+0.0IFx_Mosaic",
+      "rank": "70065",
+      "error_pixels": 1.0998871059607903e-11
+    },
+    {
+      "source": "G053.5+0.0IFx_Mosaic",
+      "rank": "72209",
+      "error_pixels": 3.357459313906439e-11
+    },
+    {
+      "source": "G053.5+0.0IFx_Mosaic",
+      "rank": "46497",
+      "error_pixels": 1.124982816404825e-11
+    },
+    {
+      "source": "G056.5+0.0IFx_Mosaic",
+      "rank": "69793",
+      "error_pixels": 6.1010759350204984e-12
+    },
+    {
+      "source": "G056.5+0.0IFx_Mosaic",
+      "rank": "69969",
+      "error_pixels": 7.059577317822925e-12
+    },
+    {
+      "source": "G056.5+0.0IFx_Mosaic",
+      "rank": "68689",
+      "error_pixels": 5.475883235154604e-12
+    },
+    {
+      "source": "G056.5+0.0IFx_Mosaic",
+      "rank": "53505",
+      "error_pixels": 2.1978932588525954e-11
+    },
+    {
+      "source": "G056.5+0.0IFx_Mosaic",
+      "rank": "61969",
+      "error_pixels": 1.517293430439321e-11
+    },
+    {
+      "source": "G056.5+0.0IFx_Mosaic",
+      "rank": "16913",
+      "error_pixels": 2.6033044685982322e-11
+    },
+    {
+      "source": "G056.5+0.0IFx_Mosaic",
+      "rank": "49489",
+      "error_pixels": 3.970910528681311e-12
+    },
+    {
+      "source": "G056.5+0.0IFx_Mosaic",
+      "rank": "44529",
+      "error_pixels": 1.6553053431563326e-12
+    },
+    {
+      "source": "G056.5+0.0IFx_Mosaic",
+      "rank": "14561",
+      "error_pixels": 3.6255229859084405e-11
+    },
+    {
+      "source": "G056.5+0.0IFx_Mosaic",
+      "rank": "28801",
+      "error_pixels": 8.348051665364355e-12
+    },
+    {
+      "source": "G059.5+0.0IFx_Mosaic",
+      "rank": "67521",
+      "error_pixels": 4.290077928115626e-12
+    },
+    {
+      "source": "G059.5+0.0IFx_Mosaic",
+      "rank": "61345",
+      "error_pixels": 7.332580706405269e-12
+    },
+    {
+      "source": "G059.5+0.0IFx_Mosaic",
+      "rank": "20305",
+      "error_pixels": 9.414066486742816e-12
+    },
+    {
+      "source": "G059.5+0.0IFx_Mosaic",
+      "rank": "28209",
+      "error_pixels": 1.3520610761878294e-11
+    },
+    {
+      "source": "G059.5+0.0IFx_Mosaic",
+      "rank": "88113",
+      "error_pixels": 4.637531231849411e-12
+    },
+    {
+      "source": "G059.5+0.0IFx_Mosaic",
+      "rank": "63585",
+      "error_pixels": 2.7661201467245607e-12
+    },
+    {
+      "source": "G059.5+0.0IFx_Mosaic",
+      "rank": "28625",
+      "error_pixels": 4.547473508864641e-12
+    },
+    {
+      "source": "G059.5+0.0IFx_Mosaic",
+      "rank": "44321",
+      "error_pixels": 5.136078924841294e-12
+    },
+    {
+      "source": "G059.5+0.0IFx_Mosaic",
+      "rank": "85153",
+      "error_pixels": 7.1179219241905815e-12
+    },
+    {
+      "source": "G059.5+0.0IFx_Mosaic",
+      "rank": "71009",
+      "error_pixels": 1.190187715865468e-11
+    },
+    {
+      "source": "G059.5+0.0IFx_Mosaic",
+      "rank": "29537",
+      "error_pixels": 7.332580706405269e-12
+    },
+    {
+      "source": "G252.5-0.5IFx_Mosaic",
+      "rank": "30801",
+      "error_pixels": 3.376479941079482e-11
+    },
+    {
+      "source": "G252.5-0.5IFx_Mosaic",
+      "rank": "28817",
+      "error_pixels": 2.643799571842216e-11
+    },
+    {
+      "source": "G252.5-0.5IFx_Mosaic",
+      "rank": "78929",
+      "error_pixels": 5.412066656140028e-11
+    },
+    {
+      "source": "G252.5-0.5IFx_Mosaic",
+      "rank": "43105",
+      "error_pixels": 4.41181105683999e-11
+    },
+    {
+      "source": "G252.5-0.5IFx_Mosaic",
+      "rank": "34817",
+      "error_pixels": 3.002710221920857e-11
+    },
+    {
+      "source": "G255.5-0.5IFx_Mosaic",
+      "rank": "38065",
+      "error_pixels": 3.083932285216254e-11
+    },
+    {
+      "source": "G255.5-0.5IFx_Mosaic",
+      "rank": "30577",
+      "error_pixels": 4.575863442360508e-11
+    },
+    {
+      "source": "G255.5-0.5IFx_Mosaic",
+      "rank": "15905",
+      "error_pixels": 2.4573193670414723e-11
+    },
+    {
+      "source": "G255.5-0.5IFx_Mosaic",
+      "rank": "57409",
+      "error_pixels": 1.266779534233512e-11
+    },
+    {
+      "source": "G255.5-0.5IFx_Mosaic",
+      "rank": "13297",
+      "error_pixels": 7.458411103860602e-12
+    },
+    {
+      "source": "G255.5-0.5IFx_Mosaic",
+      "rank": "60161",
+      "error_pixels": 1.8925358787496237e-11
+    },
+    {
+      "source": "G255.5-0.5IFx_Mosaic",
+      "rank": "30369",
+      "error_pixels": 4.6569237598409803e-11
+    },
+    {
+      "source": "G255.5-0.5IFx_Mosaic",
+      "rank": "36753",
+      "error_pixels": 2.825295190088412e-11
+    },
+    {
+      "source": "G258.5-0.5IFx_Mosaic",
+      "rank": "68497",
+      "error_pixels": 6.688342659199492e-11
+    },
+    {
+      "source": "G258.5-0.5IFx_Mosaic",
+      "rank": "31569",
+      "error_pixels": 3.4858690736176505e-11
+    },
+    {
+      "source": "G258.5-0.5IFx_Mosaic",
+      "rank": "32673",
+      "error_pixels": 9.094947017729282e-13
+    },
+    {
+      "source": "G258.5-0.5IFx_Mosaic",
+      "rank": "41473",
+      "error_pixels": 2.1314993583033294e-11
+    },
+    {
+      "source": "G258.5-0.5IFx_Mosaic",
+      "rank": "85137",
+      "error_pixels": 6.520512517066862e-11
+    },
+    {
+      "source": "G258.5-0.5IFx_Mosaic",
+      "rank": "54593",
+      "error_pixels": 1.2085076619694802e-11
+    },
+    {
+      "source": "G258.5-0.5IFx_Mosaic",
+      "rank": "12257",
+      "error_pixels": 1.4704327842615546e-11
+    },
+    {
+      "source": "G258.5-0.5IFx_Mosaic",
+      "rank": "80385",
+      "error_pixels": 1.5883642114725243e-11
+    },
+    {
+      "source": "G258.5-0.5IFx_Mosaic",
+      "rank": "35281",
+      "error_pixels": 8.145437798723795e-11
+    },
+    {
+      "source": "G258.5-0.5IFx_Mosaic",
+      "rank": "71713",
+      "error_pixels": 3.937177247628526e-11
+    },
+    {
+      "source": "G258.5-0.5IFx_Mosaic",
+      "rank": "34161",
+      "error_pixels": 1.543139170693851e-11
+    },
+    {
+      "source": "G258.5-0.5IFx_Mosaic",
+      "rank": "59457",
+      "error_pixels": 4.857834717993491e-11
+    },
+    {
+      "source": "G258.5-0.5IFx_Mosaic",
+      "rank": "29105",
+      "error_pixels": 8.900975175245069e-11
+    },
+    {
+      "source": "G258.5-0.5IFx_Mosaic",
+      "rank": "47697",
+      "error_pixels": 9.185896487906575e-11
+    },
+    {
+      "source": "G261.5-0.5IFx_Mosaic",
+      "rank": "70241",
+      "error_pixels": 1.6116287176072864e-11
+    },
+    {
+      "source": "G261.5-0.5IFx_Mosaic",
+      "rank": "70929",
+      "error_pixels": 1.1288822486045692e-11
+    },
+    {
+      "source": "G261.5-0.5IFx_Mosaic",
+      "rank": "21329",
+      "error_pixels": 8.045301916788108e-11
+    },
+    {
+      "source": "G261.5-0.5IFx_Mosaic",
+      "rank": "89137",
+      "error_pixels": 3.115268292904866e-11
+    },
+    {
+      "source": "G261.5-0.5IFx_Mosaic",
+      "rank": "11761",
+      "error_pixels": 2.662214658124117e-11
+    },
+    {
+      "source": "G264.5-0.5IFx_Mosaic",
+      "rank": "71825",
+      "error_pixels": 4.9112713895738125e-11
+    },
+    {
+      "source": "G264.5-0.5IFx_Mosaic",
+      "rank": "38641",
+      "error_pixels": 2.2886942191983725e-11
+    },
+    {
+      "source": "G264.5-0.5IFx_Mosaic",
+      "rank": "75425",
+      "error_pixels": 5.303219854654618e-12
+    },
+    {
+      "source": "G267.5-0.5IFx_Mosaic",
+      "rank": "28849",
+      "error_pixels": 8.769552411644871e-11
+    },
+    {
+      "source": "G267.5-0.5IFx_Mosaic",
+      "rank": "86273",
+      "error_pixels": 2.2954608474035854e-11
+    },
+    {
+      "source": "G267.5-0.5IFx_Mosaic",
+      "rank": "30769",
+      "error_pixels": 1.6534303506612417e-11
+    },
+    {
+      "source": "G267.5-0.5IFx_Mosaic",
+      "rank": "15649",
+      "error_pixels": 6.684631380271807e-11
+    },
+    {
+      "source": "G267.5-0.5IFx_Mosaic",
+      "rank": "33697",
+      "error_pixels": 3.7314230074863985e-11
+    },
+    {
+      "source": "G267.5-0.5IFx_Mosaic",
+      "rank": "89761",
+      "error_pixels": 6.232862085775332e-11
+    },
+    {
+      "source": "G267.5-0.5IFx_Mosaic",
+      "rank": "33681",
+      "error_pixels": 3.498895978131503e-11
+    },
+    {
+      "source": "G270.5-0.5IFx_Mosaic",
+      "rank": "53873",
+      "error_pixels": 1.5700312816654394e-11
+    },
+    {
+      "source": "G270.5-0.5IFx_Mosaic",
+      "rank": "64305",
+      "error_pixels": 4.6482209069583906e-11
+    },
+    {
+      "source": "G270.5-0.5IFx_Mosaic",
+      "rank": "35441",
+      "error_pixels": 1.2028395162639976e-11
+    },
+    {
+      "source": "G273.5-0.5IFx_Mosaic",
+      "rank": "44897",
+      "error_pixels": 5.396186200771611e-11
+    },
+    {
+      "source": "G273.5-0.5IFx_Mosaic",
+      "rank": "14577",
+      "error_pixels": 2.966420528838701e-11
+    },
+    {
+      "source": "G273.5-0.5IFx_Mosaic",
+      "rank": "87409",
+      "error_pixels": 2.7754494148515966e-11
+    },
+    {
+      "source": "G273.5-0.5IFx_Mosaic",
+      "rank": "17249",
+      "error_pixels": 7.902175740231984e-11
+    },
+    {
+      "source": "G273.5-0.5IFx_Mosaic",
+      "rank": "33681",
+      "error_pixels": 2.472838991584017e-11
+    },
+    {
+      "source": "G276.5-0.5IFx_Mosaic",
+      "rank": "21185",
+      "error_pixels": 1.184309134542256e-11
+    },
+    {
+      "source": "G276.5-0.5IFx_Mosaic",
+      "rank": "33713",
+      "error_pixels": 4.5965487918802417e-11
+    },
+    {
+      "source": "G276.5-0.5IFx_Mosaic",
+      "rank": "72689",
+      "error_pixels": 4.5148419955562106e-11
+    },
+    {
+      "source": "G276.5-0.5IFx_Mosaic",
+      "rank": "61393",
+      "error_pixels": 3.937177247628526e-11
+    },
+    {
+      "source": "G276.5-0.5IFx_Mosaic",
+      "rank": "77745",
+      "error_pixels": 5.135223259819433e-11
+    },
+    {
+      "source": "G276.5-0.5IFx_Mosaic",
+      "rank": "72449",
+      "error_pixels": 5.39695259563427e-11
+    },
+    {
+      "source": "G276.5-0.5IFx_Mosaic",
+      "rank": "48881",
+      "error_pixels": 2.456056721055716e-11
+    },
+    {
+      "source": "G276.5-0.5IFx_Mosaic",
+      "rank": "38433",
+      "error_pixels": 2.21476432887101e-11
+    },
+    {
+      "source": "G279.5-0.5IFx_Mosaic",
+      "rank": "34993",
+      "error_pixels": 3.5168761862196895e-11
+    },
+    {
+      "source": "G279.5-0.5IFx_Mosaic",
+      "rank": "17361",
+      "error_pixels": 6.711183528522548e-11
+    },
+    {
+      "source": "G279.5-0.5IFx_Mosaic",
+      "rank": "52721",
+      "error_pixels": 4.912113442111432e-11
+    },
+    {
+      "source": "G279.5-0.5IFx_Mosaic",
+      "rank": "26193",
+      "error_pixels": 1.0068829317553778e-11
+    },
+    {
+      "source": "G279.5-0.5IFx_Mosaic",
+      "rank": "49969",
+      "error_pixels": 5.2821209813306646e-11
+    },
+    {
+      "source": "G279.5-0.5IFx_Mosaic",
+      "rank": "83521",
+      "error_pixels": 3.357825000946388e-11
+    },
+    {
+      "source": "G279.5-0.5IFx_Mosaic",
+      "rank": "60177",
+      "error_pixels": 2.4268345558314348e-11
+    },
+    {
+      "source": "G279.5-0.5IFx_Mosaic",
+      "rank": "30929",
+      "error_pixels": 4.191823488907625e-11
+    },
+    {
+      "source": "G279.5-0.5IFx_Mosaic",
+      "rank": "44337",
+      "error_pixels": 7.369152408120371e-11
+    },
+    {
+      "source": "G279.5-0.5IFx_Mosaic",
+      "rank": "24369",
+      "error_pixels": 1.7806422115327728e-11
+    },
+    {
+      "source": "G279.5-0.5IFx_Mosaic",
+      "rank": "71617",
+      "error_pixels": 7.290154618149881e-11
+    },
+    {
+      "source": "G279.5-0.5IFx_Mosaic",
+      "rank": "50273",
+      "error_pixels": 8.278400434263755e-11
+    },
+    {
+      "source": "G282.5-0.5IFx_Mosaic",
+      "rank": "27345",
+      "error_pixels": 6.579237148401016e-11
+    },
+    {
+      "source": "G282.5-0.5IFx_Mosaic",
+      "rank": "83345",
+      "error_pixels": 2.8017751539208553e-11
+    },
+    {
+      "source": "G282.5-0.5IFx_Mosaic",
+      "rank": "45873",
+      "error_pixels": 1.2286596835207361e-11
+    },
+    {
+      "source": "G282.5-0.5IFx_Mosaic",
+      "rank": "13777",
+      "error_pixels": 4.053011502143579e-11
+    },
+    {
+      "source": "G282.5-0.5IFx_Mosaic",
+      "rank": "15521",
+      "error_pixels": 6.251907860378457e-11
+    },
+    {
+      "source": "G282.5-0.5IFx_Mosaic",
+      "rank": "49761",
+      "error_pixels": 7.503469090588821e-11
+    },
+    {
+      "source": "G285.5-0.5IFx_Mosaic",
+      "rank": "41985",
+      "error_pixels": 3.172249854533912e-11
+    },
+    {
+      "source": "G285.5-0.5IFx_Mosaic",
+      "rank": "23985",
+      "error_pixels": 6.558459564010244e-11
+    },
+    {
+      "source": "G288.5-0.5IFx_Mosaic",
+      "rank": "42065",
+      "error_pixels": 1.075946070573835e-10
+    },
+    {
+      "source": "G288.5-0.5IFx_Mosaic",
+      "rank": "86641",
+      "error_pixels": 2.639102263592014e-11
+    },
+    {
+      "source": "G288.5-0.5IFx_Mosaic",
+      "rank": "52353",
+      "error_pixels": 3.4751743759521194e-11
+    },
+    {
+      "source": "G288.5-0.5IFx_Mosaic",
+      "rank": "72497",
+      "error_pixels": 2.154658021114689e-11
+    },
+    {
+      "source": "G288.5-0.5IFx_Mosaic",
+      "rank": "5105",
+      "error_pixels": 5.1800544002351896e-11
+    },
+    {
+      "source": "G291.5-0.5IFx_Mosaic",
+      "rank": "69777",
+      "error_pixels": 7.323550431173278e-11
+    },
+    {
+      "source": "G291.5-0.5IFx_Mosaic",
+      "rank": "34321",
+      "error_pixels": 2.9645900236585695e-11
+    },
+    {
+      "source": "G291.5-0.5IFx_Mosaic",
+      "rank": "46929",
+      "error_pixels": 1.899114719468498e-11
+    },
+    {
+      "source": "G291.5-0.5IFx_Mosaic",
+      "rank": "69553",
+      "error_pixels": 2.8682447907601447e-11
+    },
+    {
+      "source": "G291.5-0.5IFx_Mosaic",
+      "rank": "65889",
+      "error_pixels": 7.402331506156957e-11
+    },
+    {
+      "source": "G291.5-0.5IFx_Mosaic",
+      "rank": "33489",
+      "error_pixels": 1.9811542106974198e-11
+    },
+    {
+      "source": "G291.5-0.5IFx_Mosaic",
+      "rank": "84929",
+      "error_pixels": 6.488720457759689e-11
+    },
+    {
+      "source": "G291.5-0.5IFx_Mosaic",
+      "rank": "80545",
+      "error_pixels": 2.1997742119215807e-11
+    },
+    {
+      "source": "G294.5-0.5IFx_Mosaic",
+      "rank": "75633",
+      "error_pixels": 3.3651303965598345e-11
+    },
+    {
+      "source": "G294.5-0.5IFx_Mosaic",
+      "rank": "39985",
+      "error_pixels": 3.486165680218793e-11
+    },
+    {
+      "source": "G294.5-0.5IFx_Mosaic",
+      "rank": "70977",
+      "error_pixels": 4.747701727369781e-11
+    },
+    {
+      "source": "G297.5-0.5IFx_Mosaic",
+      "rank": "54433",
+      "error_pixels": 8.459164030056501e-11
+    },
+    {
+      "source": "G297.5-0.5IFx_Mosaic",
+      "rank": "52161",
+      "error_pixels": 4.450255252909755e-11
+    },
+    {
+      "source": "G297.5-0.5IFx_Mosaic",
+      "rank": "68065",
+      "error_pixels": 3.203952465593563e-11
+    },
+    {
+      "source": "G297.5-0.5IFx_Mosaic",
+      "rank": "19921",
+      "error_pixels": 3.995570775530504e-11
+    },
+    {
+      "source": "G300.5+000IFx_Mosaic",
+      "rank": "82305",
+      "error_pixels": 4.605313334167354e-11
+    },
+    {
+      "source": "G300.5+000IFx_Mosaic",
+      "rank": "62593",
+      "error_pixels": 4.1121332264550076e-11
+    },
+    {
+      "source": "G300.5+000IFx_Mosaic",
+      "rank": "75393",
+      "error_pixels": 4.31411216618705e-11
+    },
+    {
+      "source": "G300.5+000IFx_Mosaic",
+      "rank": "81649",
+      "error_pixels": 1.3021982397982677e-11
+    },
+    {
+      "source": "G300.5-0.5IFx_Mosaic",
+      "rank": "79025",
+      "error_pixels": 1.8666811003435025e-11
+    },
+    {
+      "source": "G300.5-0.5IFx_Mosaic",
+      "rank": "90561",
+      "error_pixels": 1.000444171950221e-11
+    },
+    {
+      "source": "G300.5-0.5IFx_Mosaic",
+      "rank": "46993",
+      "error_pixels": 4.0162842196073334e-11
+    },
+    {
+      "source": "G300.5-0.5IFx_Mosaic",
+      "rank": "74321",
+      "error_pixels": 2.8904193790496182e-11
+    },
+    {
+      "source": "G303.5+000IFx_Mosaic",
+      "rank": "72593",
+      "error_pixels": 3.092281986027956e-11
+    },
+    {
+      "source": "G303.5+000IFx_Mosaic",
+      "rank": "45265",
+      "error_pixels": 4.7477017273697814e-12
+    },
+    {
+      "source": "G303.5+000IFx_Mosaic",
+      "rank": "25953",
+      "error_pixels": 6.561139156334893e-11
+    },
+    {
+      "source": "G303.5+000IFx_Mosaic",
+      "rank": "68481",
+      "error_pixels": 1.079390519126854e-10
+    },
+    {
+      "source": "G303.5+000IFx_Mosaic",
+      "rank": "19937",
+      "error_pixels": 3.6821199366162655e-11
+    },
+    {
+      "source": "G303.5+000IFx_Mosaic",
+      "rank": "63601",
+      "error_pixels": 4.396962459118299e-11
+    },
+    {
+      "source": "G303.5+000IFx_Mosaic",
+      "rank": "62465",
+      "error_pixels": 4.7511850012993735e-11
+    },
+    {
+      "source": "G303.5+000IFx_Mosaic",
+      "rank": "54817",
+      "error_pixels": 3.421501661428316e-11
+    },
+    {
+      "source": "G303.5+000IFx_Mosaic",
+      "rank": "39937",
+      "error_pixels": 1.1477304237017927e-11
+    },
+    {
+      "source": "G303.5+000IFx_Mosaic",
+      "rank": "28129",
+      "error_pixels": 8.135403417280493e-11
+    },
+    {
+      "source": "G303.5+000IFx_Mosaic",
+      "rank": "14945",
+      "error_pixels": 7.078884199396287e-11
+    },
+    {
+      "source": "G303.5+000IFx_Mosaic",
+      "rank": "51393",
+      "error_pixels": 5.532240293449121e-12
+    },
+    {
+      "source": "G303.5+000IFx_Mosaic",
+      "rank": "61185",
+      "error_pixels": 5.8015497175136485e-11
+    },
+    {
+      "source": "G303.5+000IFx_Mosaic",
+      "rank": "47201",
+      "error_pixels": 9.094947017729282e-12
+    },
+    {
+      "source": "G303.5+000IFx_Mosaic",
+      "rank": "39938",
+      "error_pixels": 9.233611085992952e-11
+    },
+    {
+      "source": "G306.5+000IFx_Mosaic",
+      "rank": "27185",
+      "error_pixels": 4.75901304596887e-11
+    },
+    {
+      "source": "G306.5+000IFx_Mosaic",
+      "rank": "60353",
+      "error_pixels": 6.217246176934205e-11
+    },
+    {
+      "source": "G306.5+000IFx_Mosaic",
+      "rank": "55425",
+      "error_pixels": 7.194212321543127e-11
+    },
+    {
+      "source": "G306.5+000IFx_Mosaic",
+      "rank": "56690",
+      "error_pixels": 3.5656368316108745e-11
+    },
+    {
+      "source": "G306.5+000IFx_Mosaic",
+      "rank": "29361",
+      "error_pixels": 7.020841095617944e-11
+    },
+    {
+      "source": "G306.5+000IFx_Mosaic",
+      "rank": "50289",
+      "error_pixels": 5.729997073625872e-11
+    },
+    {
+      "source": "G306.5+000IFx_Mosaic",
+      "rank": "61665",
+      "error_pixels": 6.804211848891314e-11
+    },
+    {
+      "source": "G306.5+000IFx_Mosaic",
+      "rank": "17553",
+      "error_pixels": 4.414798204140334e-11
+    },
+    {
+      "source": "G306.5+000IFx_Mosaic",
+      "rank": "17569",
+      "error_pixels": 4.063568995118677e-11
+    },
+    {
+      "source": "G306.5+000IFx_Mosaic",
+      "rank": "48081",
+      "error_pixels": 4.990852175978944e-11
+    },
+    {
+      "source": "G306.5+000IFx_Mosaic",
+      "rank": "7681",
+      "error_pixels": 1.1539438040042999e-10
+    },
+    {
+      "source": "G306.5+000IFx_Mosaic",
+      "rank": "30705",
+      "error_pixels": 4.2915237781577256e-11
+    },
+    {
+      "source": "G309.5+000IFx_Mosaic",
+      "rank": "42129",
+      "error_pixels": 9.27796046797629e-11
+    },
+    {
+      "source": "G309.5+000IFx_Mosaic",
+      "rank": "62961",
+      "error_pixels": 8.235824805649297e-12
+    },
+    {
+      "source": "G309.5+000IFx_Mosaic",
+      "rank": "63457",
+      "error_pixels": 6.435116892173439e-11
+    },
+    {
+      "source": "G309.5+000IFx_Mosaic",
+      "rank": "40801",
+      "error_pixels": 4.641988254725164e-11
+    },
+    {
+      "source": "G309.5+000IFx_Mosaic",
+      "rank": "26129",
+      "error_pixels": 1.5198361295068392e-11
+    },
+    {
+      "source": "G309.5+000IFx_Mosaic",
+      "rank": "16993",
+      "error_pixels": 3.685979050562208e-11
+    },
+    {
+      "source": "G309.5+000IFx_Mosaic",
+      "rank": "39985",
+      "error_pixels": 8.754447538512605e-11
+    },
+    {
+      "source": "G312.5+000IFx_Mosaic",
+      "rank": "58417",
+      "error_pixels": 6.373767161891825e-11
+    },
+    {
+      "source": "G312.5+000IFx_Mosaic",
+      "rank": "10849",
+      "error_pixels": 2.1857458739241806e-11
+    },
+    {
+      "source": "G312.5+000IFx_Mosaic",
+      "rank": "51153",
+      "error_pixels": 2.0739670164387242e-11
+    },
+    {
+      "source": "G312.5+000IFx_Mosaic",
+      "rank": "70881",
+      "error_pixels": 4.3740927708899285e-11
+    },
+    {
+      "source": "G315.5+000IFx_Mosaic",
+      "rank": "13937",
+      "error_pixels": 5.829292604175862e-11
+    },
+    {
+      "source": "G315.5+000IFx_Mosaic",
+      "rank": "34385",
+      "error_pixels": 5.900204493674522e-11
+    },
+    {
+      "source": "G315.5+000IFx_Mosaic",
+      "rank": "83569",
+      "error_pixels": 3.917431341375372e-11
+    },
+    {
+      "source": "G315.5+000IFx_Mosaic",
+      "rank": "31969",
+      "error_pixels": 3.951071514210672e-11
+    },
+    {
+      "source": "G315.5+000IFx_Mosaic",
+      "rank": "39441",
+      "error_pixels": 2.5275322487207956e-11
+    },
+    {
+      "source": "G315.5+000IFx_Mosaic",
+      "rank": "46865",
+      "error_pixels": 7.255500752584726e-11
+    },
+    {
+      "source": "G315.5+000IFx_Mosaic",
+      "rank": "26257",
+      "error_pixels": 4.832372676052088e-11
+    },
+    {
+      "source": "G315.5+000IFx_Mosaic",
+      "rank": "65377",
+      "error_pixels": 3.728928277269006e-11
+    },
+    {
+      "source": "G315.5+000IFx_Mosaic",
+      "rank": "7489",
+      "error_pixels": 2.7694823035899596e-11
+    },
+    {
+      "source": "G315.5+000IFx_Mosaic",
+      "rank": "65489",
+      "error_pixels": 2.019405957178107e-11
+    },
+    {
+      "source": "G315.5+000IFx_Mosaic",
+      "rank": "18337",
+      "error_pixels": 3.986049247499976e-11
+    },
+    {
+      "source": "G315.5+000IFx_Mosaic",
+      "rank": "71457",
+      "error_pixels": 1.000444171950221e-11
+    },
+    {
+      "source": "G315.5+000IFx_Mosaic",
+      "rank": "59553",
+      "error_pixels": 6.151130338475351e-11
+    },
+    {
+      "source": "G315.5+000IFx_Mosaic",
+      "rank": "19713",
+      "error_pixels": 4.5674385653873175e-11
+    },
+    {
+      "source": "G315.5+000IFx_Mosaic",
+      "rank": "36993",
+      "error_pixels": 3.012336521656688e-11
+    },
+    {
+      "source": "G318.5+000IFx_Mosaic",
+      "rank": "54673",
+      "error_pixels": 6.824998772482847e-11
+    },
+    {
+      "source": "G318.5+000IFx_Mosaic",
+      "rank": "15121",
+      "error_pixels": 6.275554632981255e-11
+    },
+    {
+      "source": "G318.5+000IFx_Mosaic",
+      "rank": "49713",
+      "error_pixels": 1.0149121428880717e-10
+    },
+    {
+      "source": "G321.5+000I_Mosaic",
+      "rank": "55857",
+      "error_pixels": 4.7285525211412405e-11
+    },
+    {
+      "source": "G321.5+000I_Mosaic",
+      "rank": "40545",
+      "error_pixels": 3.6834535421803594e-11
+    },
+    {
+      "source": "G321.5+000IFx_Mosaic",
+      "rank": "39297",
+      "error_pixels": 6.893173385637426e-11
+    },
+    {
+      "source": "G321.5+000IFx_Mosaic",
+      "rank": "57121",
+      "error_pixels": 8.437371123036188e-12
+    },
+    {
+      "source": "G321.5+000IFx_Mosaic",
+      "rank": "33201",
+      "error_pixels": 8.735411353108496e-12
+    },
+    {
+      "source": "G321.5+000IFx_Mosaic",
+      "rank": "12065",
+      "error_pixels": 2.116530180474044e-11
+    },
+    {
+      "source": "G321.5+000IFx_Mosaic",
+      "rank": "55873",
+      "error_pixels": 1.432454155292362e-11
+    },
+    {
+      "source": "G321.5+000IFx_Mosaic",
+      "rank": "93985",
+      "error_pixels": 6.59446379574898e-11
+    },
+    {
+      "source": "G321.5+000IFx_Mosaic",
+      "rank": "32865",
+      "error_pixels": 4.224762586741847e-11
+    },
+    {
+      "source": "G324.5+000I_Mosaic",
+      "rank": "55665",
+      "error_pixels": 3.472216392296294e-11
+    },
+    {
+      "source": "G324.5+000I_Mosaic",
+      "rank": "70673",
+      "error_pixels": 3.376173698283416e-11
+    },
+    {
+      "source": "G324.5+000I_Mosaic",
+      "rank": "17281",
+      "error_pixels": 8.6282243323741e-12
+    },
+    {
+      "source": "G324.5+000I_Mosaic",
+      "rank": "34065",
+      "error_pixels": 8.804852920974951e-11
+    },
+    {
+      "source": "G324.5+000I_Mosaic",
+      "rank": "8017",
+      "error_pixels": 3.705842160685158e-11
+    },
+    {
+      "source": "G327.5+000I_Mosaic",
+      "rank": "34465",
+      "error_pixels": 7.05386289890837e-11
+    },
+    {
+      "source": "G327.5+000I_Mosaic",
+      "rank": "31233",
+      "error_pixels": 2.489508132052105e-11
+    },
+    {
+      "source": "G327.5+000I_Mosaic",
+      "rank": "30625",
+      "error_pixels": 3.019878516330935e-11
+    },
+    {
+      "source": "G327.5+000I_Mosaic",
+      "rank": "24353",
+      "error_pixels": 4.386603355617511e-11
+    },
+    {
+      "source": "G327.5+000I_Mosaic",
+      "rank": "38433",
+      "error_pixels": 5.031487120840658e-11
+    },
+    {
+      "source": "G327.5+000I_Mosaic",
+      "rank": "82257",
+      "error_pixels": 7.750774733827998e-11
+    },
+    {
+      "source": "G327.5+000I_Mosaic",
+      "rank": "50129",
+      "error_pixels": 4.108863139873035e-11
+    },
+    {
+      "source": "G327.5+000I_Mosaic",
+      "rank": "53601",
+      "error_pixels": 3.798161381895825e-11
+    },
+    {
+      "source": "G330.5+000I_Mosaic",
+      "rank": "42481",
+      "error_pixels": 2.207750384320817e-11
+    },
+    {
+      "source": "G330.5+000I_Mosaic",
+      "rank": "29249",
+      "error_pixels": 1.0846463138754235e-10
+    },
+    {
+      "source": "G330.5+000I_Mosaic",
+      "rank": "11297",
+      "error_pixels": 3.1913416131870236e-11
+    },
+    {
+      "source": "G330.5+000I_Mosaic",
+      "rank": "91537",
+      "error_pixels": 4.3439679699401496e-11
+    },
+    {
+      "source": "G330.5+000I_Mosaic",
+      "rank": "87729",
+      "error_pixels": 4.6918380248648237e-11
+    },
+    {
+      "source": "G330.5+000I_Mosaic",
+      "rank": "87217",
+      "error_pixels": 2.1649806911031112e-11
+    },
+    {
+      "source": "G330.5+000I_Mosaic",
+      "rank": "48113",
+      "error_pixels": 8.87922587470104e-12
+    },
+    {
+      "source": "G330.5+000I_Mosaic",
+      "rank": "54657",
+      "error_pixels": 6.45741238258779e-11
+    },
+    {
+      "source": "G333.5+000I_Mosaic",
+      "rank": "71217",
+      "error_pixels": 4.547473508864641e-11
+    },
+    {
+      "source": "G333.5+000I_Mosaic",
+      "rank": "88593",
+      "error_pixels": 5.407778270973886e-11
+    },
+    {
+      "source": "G333.5+000I_Mosaic",
+      "rank": "54689",
+      "error_pixels": 6.504159013853615e-11
+    },
+    {
+      "source": "G333.5+000I_Mosaic",
+      "rank": "59281",
+      "error_pixels": 2.033691978340166e-11
+    },
+    {
+      "source": "G333.5+000I_Mosaic",
+      "rank": "51281",
+      "error_pixels": 2.21476432887101e-11
+    },
+    {
+      "source": "G333.5+000I_Mosaic",
+      "rank": "40465",
+      "error_pixels": 6.946861173154394e-11
+    },
+    {
+      "source": "G333.5+000I_Mosaic",
+      "rank": "50993",
+      "error_pixels": 4.820536418091448e-11
+    },
+    {
+      "source": "G333.5+000I_Mosaic",
+      "rank": "71585",
+      "error_pixels": 1.4148417163691233e-11
+    },
+    {
+      "source": "G333.5+000I_Mosaic",
+      "rank": "57873",
+      "error_pixels": 7.77072613829435e-12
+    },
+    {
+      "source": "G336.5+000I_Mosaic",
+      "rank": "12561",
+      "error_pixels": 3.275779257415686e-11
+    },
+    {
+      "source": "G336.5+000I_Mosaic",
+      "rank": "50705",
+      "error_pixels": 1.9488258604490038e-11
+    },
+    {
+      "source": "G336.5+000I_Mosaic",
+      "rank": "44529",
+      "error_pixels": 2.6864755432583352e-11
+    },
+    {
+      "source": "G336.5+000I_Mosaic",
+      "rank": "41681",
+      "error_pixels": 1.5568041607024215e-11
+    },
+    {
+      "source": "G336.5+000I_Mosaic",
+      "rank": "56897",
+      "error_pixels": 6.076442497366426e-11
+    },
+    {
+      "source": "G336.5+000I_Mosaic",
+      "rank": "46945",
+      "error_pixels": 1.7334167344002634e-11
+    },
+    {
+      "source": "G336.5+000I_Mosaic",
+      "rank": "44673",
+      "error_pixels": 1.5143837850106786e-11
+    },
+    {
+      "source": "G336.5+000I_Mosaic",
+      "rank": "46737",
+      "error_pixels": 3.186153490897297e-11
+    },
+    {
+      "source": "G339.5+000I_Mosaic",
+      "rank": "30609",
+      "error_pixels": 1.3734950980996433e-11
+    },
+    {
+      "source": "G339.5+000I_Mosaic",
+      "rank": "40833",
+      "error_pixels": 3.320901310918956e-11
+    },
+    {
+      "source": "G339.5+000I_Mosaic",
+      "rank": "54049",
+      "error_pixels": 1.2862197421537486e-11
+    },
+    {
+      "source": "G339.5+000I_Mosaic",
+      "rank": "42737",
+      "error_pixels": 1.0536408781493904e-10
+    },
+    {
+      "source": "G339.5+000I_Mosaic",
+      "rank": "51569",
+      "error_pixels": 3.457276363178282e-11
+    },
+    {
+      "source": "G339.5+000I_Mosaic",
+      "rank": "66593",
+      "error_pixels": 1.0369835082193621e-11
+    },
+    {
+      "source": "G339.5+000I_Mosaic",
+      "rank": "56833",
+      "error_pixels": 2.39250701960662e-11
+    },
+    {
+      "source": "G339.5+000I_Mosaic",
+      "rank": "16529",
+      "error_pixels": 6.014076697111095e-11
+    },
+    {
+      "source": "G339.5+000I_Mosaic",
+      "rank": "91921",
+      "error_pixels": 6.230536585809732e-11
+    },
+    {
+      "source": "G339.5+000I_Mosaic",
+      "rank": "56689",
+      "error_pixels": 2.637534635141492e-11
+    },
+    {
+      "source": "G342.5+000I_Mosaic",
+      "rank": "38433",
+      "error_pixels": 3.3423156901359034e-11
+    },
+    {
+      "source": "G342.5+000I_Mosaic",
+      "rank": "51873",
+      "error_pixels": 7.492100615918974e-11
+    },
+    {
+      "source": "G342.5+000I_Mosaic",
+      "rank": "58641",
+      "error_pixels": 1.9191200268332242e-11
+    },
+    {
+      "source": "G342.5+000I_Mosaic",
+      "rank": "78545",
+      "error_pixels": 4.8870003310760366e-11
+    },
+    {
+      "source": "G342.5+000I_Mosaic",
+      "rank": "61169",
+      "error_pixels": 5.955801593220278e-11
+    },
+    {
+      "source": "G342.5+000I_Mosaic",
+      "rank": "79793",
+      "error_pixels": 2.548208745087668e-11
+    },
+    {
+      "source": "G342.5+000I_Mosaic",
+      "rank": "45585",
+      "error_pixels": 2.7924933379768203e-11
+    },
+    {
+      "source": "G342.5+000I_Mosaic",
+      "rank": "53185",
+      "error_pixels": 4.732869213060508e-11
+    },
+    {
+      "source": "G342.5+000I_Mosaic",
+      "rank": "54641",
+      "error_pixels": 7.244376505352941e-11
+    },
+    {
+      "source": "G342.5+000I_Mosaic",
+      "rank": "45009",
+      "error_pixels": 2.5611603342128952e-11
+    },
+    {
+      "source": "G342.5+000I_Mosaic",
+      "rank": "78513",
+      "error_pixels": 3.0315187369427307e-11
+    },
+    {
+      "source": "G345.5+000I_Mosaic",
+      "rank": "43425",
+      "error_pixels": 9.02647718306944e-12
+    },
+    {
+      "source": "G345.5+000I_Mosaic",
+      "rank": "44321",
+      "error_pixels": 4.025541601796789e-11
+    },
+    {
+      "source": "G345.5+000I_Mosaic",
+      "rank": "81217",
+      "error_pixels": 5.91451334471971e-11
+    },
+    {
+      "source": "G345.5+000I_Mosaic",
+      "rank": "55009",
+      "error_pixels": 3.989355209243751e-11
+    },
+    {
+      "source": "G345.5+000I_Mosaic",
+      "rank": "22753",
+      "error_pixels": 3.5888967061851535e-11
+    },
+    {
+      "source": "G348.5+000I_Mosaic",
+      "rank": "12913",
+      "error_pixels": 1.3183752357075922e-11
+    },
+    {
+      "source": "G348.5+000I_Mosaic",
+      "rank": "53409",
+      "error_pixels": 9.55240081457305e-12
+    },
+    {
+      "source": "G348.5+000I_Mosaic",
+      "rank": "56577",
+      "error_pixels": 3.9266584544607944e-11
+    },
+    {
+      "source": "G348.5+000I_Mosaic",
+      "rank": "53410",
+      "error_pixels": 2.3591046095570537e-11
+    },
+    {
+      "source": "G348.5+000I_Mosaic",
+      "rank": "31681",
+      "error_pixels": 1.5700312816654394e-11
+    },
+    {
+      "source": "G348.5+000I_Mosaic",
+      "rank": "61265",
+      "error_pixels": 6.821210263296962e-12
+    },
+    {
+      "source": "G348.5+000I_Mosaic",
+      "rank": "51105",
+      "error_pixels": 3.402105924445657e-11
+    },
+    {
+      "source": "G348.5+000I_Mosaic",
+      "rank": "51697",
+      "error_pixels": 5.103108232704916e-11
+    },
+    {
+      "source": "G348.5+000I_Mosaic",
+      "rank": "13153",
+      "error_pixels": 5.822375692183146e-11
+    },
+    {
+      "source": "G348.5+000I_Mosaic",
+      "rank": "61266",
+      "error_pixels": 3.580972974779803e-11
+    },
+    {
+      "source": "G348.5+000I_Mosaic",
+      "rank": "23793",
+      "error_pixels": 5.917004006605855e-11
+    },
+    {
+      "source": "G351.5+000I_Mosaic",
+      "rank": "54529",
+      "error_pixels": 8.799684374602325e-11
+    },
+    {
+      "source": "G351.5+000I_Mosaic",
+      "rank": "48897",
+      "error_pixels": 4.570154315443183e-12
+    },
+    {
+      "source": "G351.5+000I_Mosaic",
+      "rank": "37137",
+      "error_pixels": 1.6477925721113422e-11
+    },
+    {
+      "source": "G351.5+000I_Mosaic",
+      "rank": "47681",
+      "error_pixels": 2.819800283382846e-11
+    },
+    {
+      "source": "G351.5+000I_Mosaic",
+      "rank": "51105",
+      "error_pixels": 1.084284005517751e-10
+    },
+    {
+      "source": "G351.5+000I_Mosaic",
+      "rank": "51729",
+      "error_pixels": 1.19625350980331e-11
+    },
+    {
+      "source": "G354.5+000I_Mosaic",
+      "rank": "26113",
+      "error_pixels": 8.385126836667848e-12
+    },
+    {
+      "source": "G354.5+000I_Mosaic",
+      "rank": "37697",
+      "error_pixels": 6.366625320107171e-11
+    },
+    {
+      "source": "G354.5+000I_Mosaic",
+      "rank": "13393",
+      "error_pixels": 4.6368623089093954e-11
+    },
+    {
+      "source": "G354.5+000I_Mosaic",
+      "rank": "65025",
+      "error_pixels": 5.375452236603785e-11
+    },
+    {
+      "source": "G354.5+000I_Mosaic",
+      "rank": "58577",
+      "error_pixels": 4.6980045438937326e-11
+    },
+    {
+      "source": "G354.5+000I_Mosaic",
+      "rank": "40593",
+      "error_pixels": 4.5884999214219e-11
+    },
+    {
+      "source": "G354.5+000I_Mosaic",
+      "rank": "34065",
+      "error_pixels": 2.077951586906395e-11
+    },
+    {
+      "source": "G357.5+000I_Mosaic",
+      "rank": "68609",
+      "error_pixels": 5.6418002420362693e-11
+    },
+    {
+      "source": "G357.5+000I_Mosaic",
+      "rank": "41217",
+      "error_pixels": 1.342852834589703e-11
+    },
+    {
+      "source": "G357.5+000I_Mosaic",
+      "rank": "43361",
+      "error_pixels": 2.4928285845209295e-11
+    },
+    {
+      "source": "G357.5+000I_Mosaic",
+      "rank": "62577",
+      "error_pixels": 4.4706544879706964e-11
+    },
+    {
+      "source": "G357.5+000I_Mosaic",
+      "rank": "42785",
+      "error_pixels": 1.0045697324301055e-11
+    },
+    {
+      "source": "G357.5+000I_Mosaic",
+      "rank": "61745",
+      "error_pixels": 2.766120146724561e-11
+    },
+    {
+      "source": "G357.5+000I_Mosaic",
+      "rank": "83185",
+      "error_pixels": 7.784020803512107e-11
+    },
+    {
+      "source": "G357.5+000I_Mosaic",
+      "rank": "42849",
+      "error_pixels": 2.5060663999201742e-11
+    },
+    {
+      "source": "G357.5+000I_Mosaic",
+      "rank": "49009",
+      "error_pixels": 2.4661397879674493e-11
+    },
+    {
+      "source": "G357.5+000I_Mosaic",
+      "rank": "41185",
+      "error_pixels": 1.2278178473934531e-11
+    },
+    {
+      "source": "G357.5+000I_Mosaic",
+      "rank": "78017",
+      "error_pixels": 6.270898366324472e-11
+    },
+    {
+      "source": "G357.5+000I_Mosaic",
+      "rank": "72401",
+      "error_pixels": 3.2296667822383284e-11
+    },
+    {
+      "source": "G357.5+000I_Mosaic",
+      "rank": "28465",
+      "error_pixels": 4.6198839547546534e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "136481",
+      "error_pixels": 8.168254905946998e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "132865",
+      "error_pixels": 3.279229782005122e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "110977",
+      "error_pixels": 2.0938140429682494e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "51729",
+      "error_pixels": 1.074330390620387e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "153041",
+      "error_pixels": 1.677641807482061e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "129537",
+      "error_pixels": 7.028458307599669e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "151473",
+      "error_pixels": 9.375408249319926e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "24977",
+      "error_pixels": 9.390285048823212e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "71761",
+      "error_pixels": 1.0962807083469123e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "96017",
+      "error_pixels": 1.045444280373811e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "93921",
+      "error_pixels": 1.4295277903252721e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "102801",
+      "error_pixels": 7.518061668791257e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "89185",
+      "error_pixels": 6.367112518341724e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "148353",
+      "error_pixels": 5.645464462882408e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "136257",
+      "error_pixels": 1.7576617510995572e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "121521",
+      "error_pixels": 1.0141171804023337e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "40145",
+      "error_pixels": 3.711139609204686e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "33553",
+      "error_pixels": 7.312246904709093e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "161633",
+      "error_pixels": 4.187628085936499e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "163201",
+      "error_pixels": 1.0371829089534846e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "144641",
+      "error_pixels": 2.5155380510003544e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "73825",
+      "error_pixels": 6.099719989690935e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "142817",
+      "error_pixels": 4.1690685555973404e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "57089",
+      "error_pixels": 1.2650152619810905e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "142945",
+      "error_pixels": 8.016461924642611e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "138113",
+      "error_pixels": 1.068259506430042e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "61825",
+      "error_pixels": 2.0097826570733968e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "164977",
+      "error_pixels": 3.569404626103352e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "146401",
+      "error_pixels": 5.5144562079121344e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "78817",
+      "error_pixels": 1.1123012371635498e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "161521",
+      "error_pixels": 1.9442776034731604e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "57345",
+      "error_pixels": 1.0782883420123995e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "77265",
+      "error_pixels": 5.7269286085761144e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "50465",
+      "error_pixels": 5.916086516325634e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "46993",
+      "error_pixels": 1.0657496791516646e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "99313",
+      "error_pixels": 1.2782526604611452e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "132897",
+      "error_pixels": 7.499885442698834e-12
+    },
+    {
+      "source": "outputs",
+      "rank": "87089",
+      "error_pixels": 1.6919107267572724e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "151474",
+      "error_pixels": 3.9709105286813114e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "87393",
+      "error_pixels": 5.538964607179919e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "19729",
+      "error_pixels": 2.40440539450674e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "50353",
+      "error_pixels": 1.6864935624732118e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "87361",
+      "error_pixels": 8.580155856231252e-12
+    },
+    {
+      "source": "outputs",
+      "rank": "161697",
+      "error_pixels": 7.531253189394253e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "80849",
+      "error_pixels": 7.324115149563382e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "106193",
+      "error_pixels": 4.805713547693051e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "68721",
+      "error_pixels": 7.584471487748432e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "38481",
+      "error_pixels": 2.5759621183849824e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "110481",
+      "error_pixels": 4.403307116048456e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "102657",
+      "error_pixels": 1.0121576896150742e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "133137",
+      "error_pixels": 4.2900779281156266e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "112993",
+      "error_pixels": 2.6398857287313134e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "25025",
+      "error_pixels": 2.377768840042861e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "111073",
+      "error_pixels": 1.639614891002561e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "119889",
+      "error_pixels": 1.9623388865377228e-10
+    },
+    {
+      "source": "outputs",
+      "rank": "149793",
+      "error_pixels": 2.4811875602069887e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "139409",
+      "error_pixels": 1.846632631372536e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "143025",
+      "error_pixels": 3.945572091376355e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "141345",
+      "error_pixels": 1.0989466294262977e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "45281",
+      "error_pixels": 1.7375871879760597e-11
+    },
+    {
+      "source": "outputs",
+      "rank": "61601",
+      "error_pixels": 1.4180900770730255e-10
+    }
+  ]
+}
